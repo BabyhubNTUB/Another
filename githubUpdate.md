@@ -1,3 +1,7 @@
+## 20190326
+  #### 新增
+    新增每週進度表(/document/blob/master/Weekly%20progress.md)
+
 ## 20190310
   #### 新增
     新增醫院資料表（/SystemFiles/blob/master/babyhub.sql）
